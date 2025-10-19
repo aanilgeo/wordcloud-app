@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# editor caches
+.eslintcache
+
+# pnpm logs (if you ever use pnpm)
+pnpm-debug.log*
+
+# IDE folders (personal preference)
+.vscode/
+.idea/
